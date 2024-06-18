@@ -1,0 +1,269 @@
+BookID,Title,Author
+178923,To Kill a Mockingbird,Harper Lee
+243156,1984,George Orwell
+391627,Pride and Prejudice,Jane Austen
+459231,The Great Gatsby,F. Scott Fitzgerald
+517823,Moby-Dick,Herman Melville
+638914,War and Peace,Leo Tolstoy
+786125,The Catcher in the Rye,J.D. Salinger
+829613,The Hobbit,J.R.R. Tolkien
+942316,Fahrenheit 451,Ray Bradbury
+105781,Jane Eyre,Charlotte Brontë
+116492,Crime and Punishment,Fyodor Dostoevsky
+127653,Brave New World,Aldous Huxley
+138264,Wuthering Heights,Emily Brontë
+149375,The Odyssey,Homer
+153286,Great Expectations,Charles Dickens
+164397,The Iliad,Homer
+175318,Anna Karenina,Leo Tolstoy
+186429,One Hundred Years of Solitude,Gabriel Garcia Marquez
+197531,The Brothers Karamazov,Fyodor Dostoevsky
+208642,Les Misérables,Victor Hugo
+219753,The Picture of Dorian Gray,Oscar Wilde
+230864,Dracula,Bram Stoker
+241975,Frankenstein,Mary Shelley
+253086,The Adventures of Huckleberry Finn,Mark Twain
+264197,Lord of the Flies,William Golding
+275318,The Grapes of Wrath,John Steinbeck
+286429,Don Quixote,Miguel de Cervantes
+297531,Madame Bovary,Gustave Flaubert
+308642,The Count of Monte Cristo,Alexandre Dumas
+319753,Ulysses,James Joyce
+330864,The Divine Comedy,Dante Alighieri
+341975,The Old Man and the Sea,Ernest Hemingway
+353086,Heart of Darkness,Joseph Conrad
+364197,The Sun Also Rises,Ernest Hemingway
+375318,Slaughterhouse-Five,Kurt Vonnegut
+386429,Catch-22,Joseph Heller
+397531,The Lord of the Rings,J.R.R. Tolkien
+408642,Animal Farm,George Orwell
+419753,A Tale of Two Cities,Charles Dickens
+430864,The Stranger,Albert Camus
+441975,Gone with the Wind,Margaret Mitchell
+453086,The Sound and the Fury,William Faulkner
+464197,Alice's Adventures in Wonderland,Lewis Carroll
+475318,The Trial,Franz Kafka
+486429,The Metamorphosis,Franz Kafka
+497531,Rebecca,Daphne du Maurier
+508642,On the Road,Jack Kerouac
+519753,Of Mice and Men,John Steinbeck
+530864,The Bell Jar,Sylvia Plath
+541975,To the Lighthouse,Virginia Woolf
+553086,Bleak House,Charles Dickens
+564197,The Scarlet Letter,Nathaniel Hawthorne
+575318,Middlemarch,George Eliot
+586429,Mrs. Dalloway,Virginia Woolf
+597531,David Copperfield,Charles Dickens
+608642,Catch-22,Joseph Heller
+619753,Invisible Man,Ralph Ellison
+630864,Native Son,Richard Wright
+641975,Beloved,Toni Morrison
+653086,The Color Purple,Alice Walker
+664197,The Road,Cormac McCarthy
+675318,A Clockwork Orange,Anthony Burgess
+686429,The Shining,Stephen King
+697531,The Handmaid's Tale,Margaret Atwood
+708642,Dune,Frank Herbert
+719753,The Wind-Up Bird Chronicle,Haruki Murakami
+730864,White Teeth,Zadie Smith
+741975,Life of Pi,Yann Martel
+753086,The Kite Runner,Khaled Hosseini
+764197,The Goldfinch,Donna Tartt
+775318,American Gods,Neil Gaiman
+786429,The Book Thief,Markus Zusak
+797531,The Girl with the Dragon Tattoo,Stieg Larsson
+808642,The Road,Cormac McCarthy
+819753,The Giver,Lois Lowry
+830864,Ender's Game,Orson Scott Card
+841975,The Hitchhiker's Guide to the Galaxy,Douglas Adams
+853086,Good Omens,Neil Gaiman and Terry Pratchett
+864197,Neuromancer,William Gibson
+875318,Brave New World,Aldous Huxley
+886429,The Name of the Wind,Patrick Rothfuss
+897531,The Shadow of the Wind,Carlos Ruiz Zafón
+908642,A Game of Thrones,George R.R. Martin
+919753,The Hunger Games,Suzanne Collins
+930864,Divergent,Veronica Roth
+941975,The Fault in Our Stars,John Green
+953086,The Maze Runner,James Dashner
+964197,Gone Girl,Gillian Flynn
+975318,Big Little Lies,Liane Moriarty
+986429,The Night Circus,Erin Morgenstern
+997531,Me Before You,Jojo Moyes
+108642,Eleanor Oliphant Is Completely Fine,Gail Honeyman
+119753,All the Light We Cannot See,Anthony Doerr
+130864,The Martian,Andy Weir
+141975,Ready Player One,Ernest Cline
+153086,The Light Between Oceans,M.L. Stedman
+164197,Where the Crawdads Sing,Delia Owens
+175318,Educated,Tara Westover
+186429,Becoming,Michelle Obama
+197531,Sapiens: A Brief History of Humankind,Yuval Noah Harari
+209864,The Alchemist,Paulo Coelho
+220975,The Secret Garden,Frances Hodgson Burnett
+231086,Little Women,Louisa May Alcott
+242197,The Time Traveler's Wife,Audrey Niffenegger
+253308,The Perks of Being a Wallflower,Stephen Chbosky
+264419,The Girl on the Train,Paula Hawkins
+275531,Water for Elephants,Sara Gruen
+286642,The Help,Kathryn Stockett
+297753,A Man Called Ove,Fredrik Backman
+308864,The Immortal Life of Henrietta Lacks,Rebecca Skloot
+319975,The Glass Castle,Jeannette Walls
+330086,Wild,Cheryl Strayed
+341197,Eat Pray Love,Elizabeth Gilbert
+352308,The Devil Wears Prada,Lauren Weisberger
+363419,The Curious Incident of the Dog in the Night-Time,Mark Haddon
+374531,The Lovely Bones,Alice Sebold
+385642,Memoirs of a Geisha,Arthur Golden
+396753,The Road Less Traveled,M. Scott Peck
+407864,Outlander,Diana Gabaldon
+418975,The Poisonwood Bible,Barbara Kingsolver
+429086,The Pillars of the Earth,Ken Follett
+440197,Shōgun,James Clavell
+451308,The Clan of the Cave Bear,Jean M. Auel
+462419,Roots,Alex Haley
+473531,The Thorn Birds,Colleen McCullough
+484642,Jurassic Park,Michael Crichton
+495753,Jaws,Peter Benchley
+506864,The Andromeda Strain,Michael Crichton
+517975,The Firm,John Grisham
+529086,Angels & Demons,Dan Brown
+540197,The Da Vinci Code,Dan Brown
+551308,Deception Point,Dan Brown
+562419,Digital Fortress,Dan Brown
+573531,The Lost Symbol,Dan Brown
+584642,Inferno,Dan Brown
+595753,Gone Baby Gone,Dennis Lehane
+606864,Shutter Island,Dennis Lehane
+617975,Dark Places,Gillian Flynn
+629086,Sharp Objects,Gillian Flynn
+640197,In the Woods,Tana French
+651308,The Likeness,Tana French
+662419,Broken Harbor,Tana French
+673531,Faithful Place,Tana French
+684642,The Trespasser,Tana French
+695753,Big Little Lies,Liane Moriarty
+706864,Truly Madly Guilty,Liane Moriarty
+717975,The Hypnotist,Lars Kepler
+729086,The Sandman,Lars Kepler
+740197,The Fire Witness,Lars Kepler
+751308,The Rabbit Factory,Marshall Karp
+762419,The Killing Game,Nancy Bush
+773531,The Angel's Game,Carlos Ruiz Zafón
+784642,The Prisoner of Heaven,Carlos Ruiz Zafón
+795753,The Labyrinth of Spirits,Carlos Ruiz Zafón
+806864,Shadow of the Wind,Carlos Ruiz Zafón
+817975,The Paris Architect,Charles Belfoure
+829086,The Nightingale,Kristin Hannah
+840197,The Great Alone,Kristin Hannah
+851308,Firefly Lane,Kristin Hannah
+862419,Winter Garden,Kristin Hannah
+873531,The Light We Lost,Jill Santopolo
+884642,Before We Were Strangers,Renee Carlino
+895753,Swear on This Life,Renee Carlino
+906864,Wish You Were Here,Jodi Picoult
+917975,My Sister's Keeper,Jodi Picoult
+929086,The Storyteller,Jodi Picoult
+940197,Leaving Time,Jodi Picoult
+951308,Nineteen Minutes,Jodi Picoult
+962419,Small Great Things,Jodi Picoult
+973531,The Tenth Circle,Jodi Picoult
+984642,Vanishing Acts,Jodi Picoult
+995753,Change of Heart,Jodi Picoult
+106864,The Pact,Jodi Picoult
+117975,Perfect Match,Jodi Picoult
+129086,Plain Truth,Jodi Picoult
+140197,Salem Falls,Jodi Picoult
+151308,The Shape of Water,Guillermo del Toro
+162419,The Night Manager,John le Carré
+173531,Tinker Tailor Soldier Spy,John le Carré
+184642,The Spy Who Came in from the Cold,John le Carré
+195753,The Night Circus,Erin Morgenstern
+206864,Station Eleven,Emily St. John Mandel
+217975,The Water Dancer,Ta-Nehisi Coates
+229086,The Underground Railroad,Colson Whitehead
+240197,The Nickel Boys,Colson Whitehead
+251308,The Sympathizer,Viet Thanh Nguyen
+262419,The Refugees,Viet Thanh Nguyen
+273531,The Night Tiger,Yangsze Choo
+284642,The Ghost Bride,Yangsze Choo
+295753,Crazy Rich Asians,Kevin Kwan
+306864,China Rich Girlfriend,Kevin Kwan
+317975,Rich People Problems,Kevin Kwan
+329086,The Girl with All the Gifts,M.R. Carey
+340197,Fellside,M.R. Carey
+351308,Someone Like You,Roald Dahl
+362419,Matilda,Roald Dahl
+373531,Charlie and the Chocolate Factory,Roald Dahl
+384642,James and the Giant Peach,Roald Dahl
+395753,The BFG,Roald Dahl
+406864,Fantastic Mr. Fox,Roald Dahl
+BookID,Title,Author
+271308,The Witches,Roald Dahl
+282419,George's Marvellous Medicine,Roald Dahl
+293531,Going Solo,Roald Dahl
+304642,The Twits,Roald Dahl
+315753,Boy: Tales of Childhood,Roald Dahl
+326864,Danny the Champion of the World,Roald Dahl
+337975,The Enormous Crocodile,Roald Dahl
+349086,Esio Trot,Roald Dahl
+350197,The Giraffe and the Pelly and Me,Roald Dahl
+361308,The Magic Finger,Roald Dahl
+372419,Revolting Rhymes,Roald Dahl
+383531,The Wonderful Story of Henry Sugar and Six More,Roald Dahl
+394642,Kiss Kiss,Roald Dahl
+405753,Switch Bitch,Roald Dahl
+416864,The Bookseller of Kabul,Åsne Seierstad
+427975,My Name Is Red,Orhan Pamuk
+439086,The Museum of Innocence,Orhan Pamuk
+440197,The White Castle,Orhan Pamuk
+451308,The New Life,Orhan Pamuk
+462419,The Black Book,Orhan Pamuk
+473531,Snow,Orhan Pamuk
+484642,Istanbul: Memories and the City,Orhan Pamuk
+495753,The Red-Haired Woman,Orhan Pamuk
+506864,Silent House,Orhan Pamuk
+517975,A Strangeness in My Mind,Orhan Pamuk
+529086,The Bastard of Istanbul,Elif Shafak
+540197,The Forty Rules of Love,Elif Shafak
+551308,The Architect's Apprentice,Elif Shafak
+562419,Three Daughters of Eve,Elif Shafak
+573531,10 Minutes 38 Seconds in This Strange World,Elif Shafak
+584642,Honour,Elif Shafak
+595753,The Gaze,Elif Shafak
+606864,Black Milk,Elif Shafak
+617975,The Flea Palace,Elif Shafak
+629086,The Saint of Incipient Insanities,Elif Shafak
+630197,The Island of Missing Trees,Elif Shafak
+641308,A Thousand Splendid Suns,Khaled Hosseini
+652419,And the Mountains Echoed,Khaled Hosseini
+663531,Sea Prayer,Khaled Hosseini
+674642,The Pearl,John Steinbeck
+685753,East of Eden,John Steinbeck
+696864,The Winter of Our Discontent,John Steinbeck
+707975,Tortilla Flat,John Steinbeck
+719086,In Dubious Battle,John Steinbeck
+720197,Travels with Charley,John Steinbeck
+731308,The Wayward Bus,John Steinbeck
+742419,The Red Pony,John Steinbeck
+753531,Cannery Row,John Steinbeck
+764642,Sweet Thursday,John Steinbeck
+775753,The Long Valley,John Steinbeck
+786864,Burning Bright,John Steinbeck
+797975,The Moon Is Down,John Steinbeck
+809086,The Acts of King Arthur and His Noble Knights,John Steinbeck
+810197,Of Mice and Men,John Steinbeck
+811308,The Grapes of Wrath,John Steinbeck
+812419,East of Eden,John Steinbeck
+813531,The Winter of Our Discontent,John Steinbeck
+814642,Travels with Charley in Search of America,John Steinbeck
+815753,In Dubious Battle,John Steinbeck
+816864,The Log from the Sea of Cortez,John Steinbeck
+817975,America and Americans,John Steinbeck
+819086,Once There Was a War,John Steinbeck
+820197,Steinbeck: A Life in Letters,John Steinbeck
+821308,Working Days: The Journals of The Grapes of Wrath,John Steinbeck
+832419,Journal of a Novel: The East of Eden Letters,John Steinbeck
+843531,The Portable Steinbeck,John Steinbeck
+335022,The Witcher,Sobieska
